@@ -2,3 +2,8 @@
 build/
 .idea/
 *.iml
+bin/
+.settings/
+.project
+.classpath
+.vscode/
